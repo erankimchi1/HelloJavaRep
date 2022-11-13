@@ -1,7 +1,7 @@
 public class Hello{
 	public static void main(String[]args){
 		for(int i=0;i<10;i++){
-			System.out.println("Lets Goo"+i);
+			System.out.println("Lets Gooo"+i);
 		}
 	}
 }
